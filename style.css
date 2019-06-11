@@ -95,7 +95,7 @@ h2 {
 }
 
 .list-inline i:hover {
-	color: rgba(230,230, 230, 0.6);
+	color: rgba(230, 230, 230, 0.9);
 	text-decoration: none;
 }
 .list-inline a {
